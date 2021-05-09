@@ -11,4 +11,4 @@
 | read3 | [read3](read04.md) |
 | read4 | [read4](read05.md) |
 | read5 | [read5](read06.md) |
-| read6 | [read5](read07.md) |
+| read6 | [read6](read07.md) |
