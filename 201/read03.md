@@ -12,7 +12,7 @@
 example : ``` <a href="http://www.ABCD.com">ABCD</a> ```
 
 ### -Linking to Other Sites.
-#### Links are created using the <a> element which has an attribute called href. The value of the href attribute is the page URL.
+#### Links are created using the (a) element which has an attribute called href. The value of the href attribute is the page URL.
 #### Users can click on anything that appears between the opening (a) tag and the closing (/a) tag and will be taken to the page specified in the href attribute.
 
 ### -Linking to Other Pages on the Sa me Site.
@@ -74,3 +74,19 @@ example : ``` <a href="http:/www.ABCD.com/#bottom">```
 
 # Function :Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
 # Objects : Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names
+
+
+
+
+# 6 Reasons for Pair Programming.
+## While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator.
+### The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
+### The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
+## 6 Reasons for Pair Programming :
+1. ### Greater efficiency.
+2. ### Engaged collaboration.
+3. ### Learning from fellow students.
+4. ### Social skills.
+5. ### Job interview readiness.
+6. ### Work environment readiness.
+
