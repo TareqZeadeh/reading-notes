@@ -20,7 +20,7 @@
 | ----------- | ----------- |
 | read0 | [read0](201/read00.md) |
 | read1 | [read1](201/read01.md) |
-| read2 | [read2]-----------  |
+| read2 | [read2](201/read02.md)  |
 | read3 | [read3]-----------  |
 | read4 | [read4]-----------  |
 | read5 | [read5]-----------  |
