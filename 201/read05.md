@@ -8,7 +8,7 @@
 1. Make the problem domain easier.
 2. Get better at understanding the problem domain.
 ### You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
-##### for more, you can read John Sonmez's post [HERE](https://simpleprogrammer.com understanding-the-problem-domain-is-the-hardest-part-of-programming).
+##### for more, you can read John Sonmez's post [HERE](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming).
 
 # What is an object?
 ## Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
