@@ -40,6 +40,10 @@ EX:``` <img src="images/quokka.jpg" alt="A family of quokka" width="600" height=
 
 ##### **for more information read this book Chapter 11: “Color” (pp.246-263) [HTML CSS](https://wtf.tw/ref/duckett.pdf).**
 
+
+
+
+
 # JPEG vs PNG vs GIF — which image format to use and when?
 ### -There is three most commonly used image formats in websites and mobile applications — JPEG, PNG and GIF.
 ### -Several statistics reports, including the one from HTTP Archive, indicate that these 3 formats together comprise of more than 95% of all images loaded on websites.
