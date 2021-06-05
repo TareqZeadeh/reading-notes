@@ -28,7 +28,7 @@
 | read7 | [read7](201/read07.md)|
 | read8 | [read8]-----------  |
 | read9 | [read9](201/read09.md)  |
-| read10 | [read10]-----------  |
+| read10 | [read10](201/read10.md) |
 | read11 | [read11]-----------  |
 | read12 | [read12]-----------  |
 | read13 | [read13]-----------  |
