@@ -50,7 +50,7 @@
 | read6 |[read6](301/read06.md)|
 | read7 |[read7](301/read07.md)|
 | read8 | ----------- |
-| read9 | -----------  |
+| read9 | [read09](301/read09.md)|
 | read10 |[read10](301/read10.md)|
 | read11 |[read11](301/read11.md)|
 | read12 | -----------|
