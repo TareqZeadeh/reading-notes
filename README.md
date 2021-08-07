@@ -41,10 +41,9 @@
 
 | number of the read | read link |
 | ----------- | ----------- |
-| read0 |  -----------|
 | read1 | ----------- |
 | read2 | -----------  |
-| read3 | ----------- |
+| read3 |[read3](301/read03.md)|
 | read4 |[read4](301/read04.md)|
 | read5 |[read5](301/read05.md)|
 | read6 |[read6](301/read06.md)|
