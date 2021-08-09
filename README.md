@@ -53,7 +53,6 @@
 | read10 |[read10](301/read10.md)|
 | read11 |[read11](301/read11.md)|
 | read12 |[read12](301/read12.md)|
-| read13 | -----------|
-| read13b | -----------|
+| read13 |[read13](301/read13.md)|
 | read14 | -----------  |
 | read15 | -----------  |
