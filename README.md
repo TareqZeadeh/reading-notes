@@ -64,7 +64,7 @@
 | number of the read | read link |
 | ----------- | ----------- |
 | read1 | [read1](401/read01.md) |
-| read2 | -----------  |
+| read2 | [read2](401/read02.md)|
 | read3 ||
 | read4 ||
 | read5 ||
