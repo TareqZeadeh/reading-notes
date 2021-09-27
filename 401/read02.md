@@ -55,5 +55,4 @@ A: No. Group them for readability.
 4. Do-While loop.
 #### For Loop : A for loop is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.
 #### While Loop : It repeats a statement or a block of statements while its controlling Boolean-expression is true.
-#### Do-While Loop : The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop.
-#### Conclusion: 
+#### Do-While Loop : The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop. 
