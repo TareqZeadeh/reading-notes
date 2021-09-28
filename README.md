@@ -65,7 +65,7 @@
 | ----------- | ----------- |
 | read1 | [read1](401/read01.md) |
 | read2 | [read2](401/read02.md)|
-| read3 ||
+| read3 | [read3](401/read03.md)|
 | read4 ||
 | read5 ||
 | read6 ||
