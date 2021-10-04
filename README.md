@@ -69,8 +69,8 @@
 | read4 | [read4](401/read04.md)|
 | read5 | [read5](401/read05.md)|
 | read6 | [read6](401/read06.md)|
-| read7 ||
-| read8 ||
+| read7 |[no read]()|
+| read8 |[read8](401/read08.md)|
 | read9 ||
 | read10 ||
 | read11 ||
