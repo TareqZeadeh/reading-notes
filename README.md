@@ -81,3 +81,4 @@
 | read16 |[read16](401/read16.md)|
 | read17 |[read17](401/read17.md)|
 | read18 |[read18](401/read18.md)|
+| read26 |[read26](401/read26.md)|
